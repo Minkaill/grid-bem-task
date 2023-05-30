@@ -98,7 +98,8 @@ li {
 
 @media (min-width: 320px) {
   .header {
-    width: 100%;
+    width: 320px;
+    margin: auto;
     display: flex;
     align-items: center;
     justify-content: center;
